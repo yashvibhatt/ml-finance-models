@@ -1,8 +1,9 @@
 # IE498 Machine Learning in Finance — Group Projects
+Machine Learning models for credit rating prediction and economic cycle forecasting using financial indicators and yield curve data.
 
 ## Overview
 
-This repository contains two machine learning projects completed for **IE498: Machine Learning in Finance** at the University of Illinois Urbana-Champaign. Both projects apply supervised learning techniques to real-world financial datasets.
+This repository contains two machine learning projects. Both projects apply supervised learning techniques to real-world financial datasets.
 
 ---
 
@@ -133,3 +134,4 @@ Install all at once: `pip install -r requirements.txt`
 
 **IE498 — Machine Learning in Finance**
 University of Illinois Urbana-Champaign
+
