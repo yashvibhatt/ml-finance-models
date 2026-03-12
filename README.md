@@ -6,6 +6,19 @@ This repository contains two machine learning projects completed for **IE498: Ma
 
 ---
 
+## Model Insights
+
+### Correlation Heatmap
+![Correlation Heatmap](docs/images/correlation_heatmap.png)
+
+### Model Performance
+![Model Performance](docs/images/model_performance.png)
+
+### Feature Importance
+![Feature Importance](docs/images/feature_importance.png)
+
+---
+
 ## Projects
 
 ### 1. Credit Rating Prediction (`MLF_GP1`)
