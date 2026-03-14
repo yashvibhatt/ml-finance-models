@@ -1,4 +1,4 @@
-# IE498 Machine Learning in Finance
+# Machine Learning in Finance
 Machine Learning models for credit rating prediction and economic cycle forecasting using financial indicators and yield curve data.
 
 ## Overview
